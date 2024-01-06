@@ -1,6 +1,6 @@
 ### Olá, meu nome é Marcela!👋
 
-- 🔭 Atualmente sou estudante do 3º período de Análise e Desenvolvimento de Sistemas pela Faculdade Senac
+- 🔭 Atualmente sou estudante do 4º período de Análise e Desenvolvimento de Sistemas pela Faculdade Senac
 - 🌱 Estou realizando a formação acelerada em programação da Softex Recife, para me tornar desenvolvedora Front-end
 - 🤔 Estou procurando estágio para colocar todo o aprendizado em prática
 <div style="display: inline_block"><br>
